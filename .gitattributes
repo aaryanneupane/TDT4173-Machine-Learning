@@ -1,0 +1,8 @@
+notebooks/02-file_pipeline.ipynb filter=lfs diff=lfs merge=lfs -text
+notebooks/05-file_pipeline_cleaner.ipynb filter=lfs diff=lfs merge=lfs -text
+notebooks/06-LGBM filter=lfs diff=lfs merge=lfs -text
+notebooks/EDA/Location_X.ipynb filter=lfs diff=lfs merge=lfs -text
+notebooks/Long_notebook.ipynb filter=lfs diff=lfs merge=lfs -text
+notebooks/Short_notebook_1.ipynb filter=lfs diff=lfs merge=lfs -text
+notebooks/Short_notebook_2.ipynb filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
